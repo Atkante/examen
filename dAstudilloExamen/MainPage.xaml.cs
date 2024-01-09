@@ -3,7 +3,8 @@
     public partial class MainPage : ContentPage
     {
         int count = 0;
-
+       String[] usuarios=[5] ;
+        
         public MainPage()
         {
             InitializeComponent();
