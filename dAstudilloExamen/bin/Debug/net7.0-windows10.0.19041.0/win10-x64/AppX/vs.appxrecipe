@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>SMLAB306PC04_23</Machine>
+    <Machine>SMLAB310PC04_23</Machine>
     <WindowsUser>master</WindowsUser>
     <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -10,14 +10,14 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>8e634960-3a1d-46f5-9d73-902892729b97</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
     <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Users\master\Source\Repos\examen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>6E5309B57DCDA7A522F4E951B46CFBE5B1CB1C41BAAADAC527EB179F801DCE4E</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>8e634960-3a1d-46f5-9d73-902892729b97_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>8e634960-3a1d-46f5-9d73-902892729b97_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -26,32 +26,32 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-01-09T00:08:32.610</Modified>
+      <Modified>2024-01-09T01:59:18.917</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-01-08T23:50:59.002</Modified>
+      <Modified>2024-01-09T01:59:18.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\dAstudilloExamen.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\dAstudilloExamen.runtimeconfig.json">
       <PackagePath>dAstudilloExamen.runtimeconfig.json</PackagePath>
-      <Modified>2024-01-08T23:40:55.513</Modified>
+      <Modified>2024-01-09T01:07:37.504</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\dAstudilloExamen.dll">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\dAstudilloExamen.dll">
       <PackagePath>dAstudilloExamen.dll</PackagePath>
-      <Modified>2024-01-09T00:08:31.873</Modified>
+      <Modified>2024-01-09T01:59:17.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>dAstudilloExamen.exe</PackagePath>
-      <Modified>2024-01-09T00:08:31.882</Modified>
+      <Modified>2024-01-09T01:59:17.632</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\dAstudilloExamen.deps.json">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\dAstudilloExamen.deps.json">
       <PackagePath>dAstudilloExamen.deps.json</PackagePath>
-      <Modified>2024-01-08T23:50:58.817</Modified>
+      <Modified>2024-01-09T01:52:39.531</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\master\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.11\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -933,245 +933,245 @@
       <PackagePath>Microsoft.Maui.pri</PackagePath>
       <Modified>2023-06-30T21:50:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
-      <Modified>2024-01-08T23:34:15.526</Modified>
+      <Modified>2024-01-09T00:51:22.504</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:34:31.408</Modified>
+      <Modified>2024-01-09T00:51:29.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-01-08T23:34:31.419</Modified>
+      <Modified>2024-01-09T00:51:29.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-01-08T23:34:31.435</Modified>
+      <Modified>2024-01-09T00:51:29.610</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-01-08T23:34:31.457</Modified>
+      <Modified>2024-01-09T00:51:29.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-01-08T23:34:31.543</Modified>
+      <Modified>2024-01-09T00:51:29.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
-      <Modified>2024-01-08T23:34:15.523</Modified>
+      <Modified>2024-01-09T00:51:29.564</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
-      <Modified>2024-01-08T23:34:15.524</Modified>
+      <Modified>2024-01-09T00:51:29.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-01-08T23:50:48.117</Modified>
+      <Modified>2024-01-09T00:51:29.568</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.341</Modified>
+      <Modified>2024-01-09T00:51:29.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.353</Modified>
+      <Modified>2024-01-09T00:51:29.569</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.360</Modified>
+      <Modified>2024-01-09T00:51:29.570</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.372</Modified>
+      <Modified>2024-01-09T00:51:29.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.420</Modified>
+      <Modified>2024-01-09T00:51:29.572</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.183</Modified>
+      <Modified>2024-01-09T00:51:29.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.185</Modified>
+      <Modified>2024-01-09T00:51:29.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.198</Modified>
+      <Modified>2024-01-09T00:51:29.574</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.187</Modified>
+      <Modified>2024-01-09T00:51:29.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.190</Modified>
+      <Modified>2024-01-09T00:51:29.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.165</Modified>
+      <Modified>2024-01-09T00:51:29.576</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.168</Modified>
+      <Modified>2024-01-09T00:51:29.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.180</Modified>
+      <Modified>2024-01-09T00:51:29.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.171</Modified>
+      <Modified>2024-01-09T00:51:29.578</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.173</Modified>
+      <Modified>2024-01-09T00:51:29.579</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.129</Modified>
+      <Modified>2024-01-09T00:51:29.579</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.132</Modified>
+      <Modified>2024-01-09T00:51:29.580</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.134</Modified>
+      <Modified>2024-01-09T00:51:29.581</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.137</Modified>
+      <Modified>2024-01-09T00:51:29.581</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.143</Modified>
+      <Modified>2024-01-09T00:51:29.582</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.146</Modified>
+      <Modified>2024-01-09T00:51:29.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.148</Modified>
+      <Modified>2024-01-09T00:51:29.583</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.163</Modified>
+      <Modified>2024-01-09T00:51:29.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.152</Modified>
+      <Modified>2024-01-09T00:51:29.585</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.156</Modified>
+      <Modified>2024-01-09T00:51:29.586</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.237</Modified>
+      <Modified>2024-01-09T00:51:29.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.243</Modified>
+      <Modified>2024-01-09T00:51:29.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.250</Modified>
+      <Modified>2024-01-09T00:51:29.588</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.258</Modified>
+      <Modified>2024-01-09T00:51:29.589</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.273</Modified>
+      <Modified>2024-01-09T00:51:29.590</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.218</Modified>
+      <Modified>2024-01-09T00:51:29.591</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.222</Modified>
+      <Modified>2024-01-09T00:51:29.592</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.226</Modified>
+      <Modified>2024-01-09T00:51:29.592</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.228</Modified>
+      <Modified>2024-01-09T00:51:29.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.233</Modified>
+      <Modified>2024-01-09T00:51:29.594</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.200</Modified>
+      <Modified>2024-01-09T00:51:29.595</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.205</Modified>
+      <Modified>2024-01-09T00:51:29.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.209</Modified>
+      <Modified>2024-01-09T00:51:29.596</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.212</Modified>
+      <Modified>2024-01-09T00:51:29.597</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.216</Modified>
+      <Modified>2024-01-09T00:51:29.598</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.279</Modified>
+      <Modified>2024-01-09T00:51:29.598</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.288</Modified>
+      <Modified>2024-01-09T00:51:29.599</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.296</Modified>
+      <Modified>2024-01-09T00:51:29.600</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.310</Modified>
+      <Modified>2024-01-09T00:51:29.601</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.334</Modified>
+      <Modified>2024-01-09T00:51:29.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.097</Modified>
+      <Modified>2024-01-09T00:51:29.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.107</Modified>
+      <Modified>2024-01-09T00:51:29.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.118</Modified>
+      <Modified>2024-01-09T00:51:29.604</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.140</Modified>
+      <Modified>2024-01-09T00:51:29.605</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-01-08T23:50:48.186</Modified>
+      <Modified>2024-01-09T00:51:29.606</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\master\Source\Repos\examen\dAstudilloExamen\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
       <PackagePath>logo.scale-100.png</PackagePath>
-      <Modified>2024-01-08T23:32:36.916</Modified>
+      <Modified>2024-01-09T00:51:29.607</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

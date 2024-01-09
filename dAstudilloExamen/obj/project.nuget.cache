@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UqkFtao8rs6PigXeWleLtv5mZJAr2mx/qSjjsurDe7+OKIMBj1hAK/PZOQy6Ibz7sGhnpNKP3OhU3cytjXGzAQ==",
+  "dgSpecHash": "kNhNZtL/7ZKUo4tq8RpEuwLSUWRUPo9/GDV6ijrBTIIz0u/0u/YzWN/pi8zt3FVYAdglwLIPxcJyzFw9cbWwmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\master\\source\\repos\\dAstudilloExamen\\dAstudilloExamen\\dAstudilloExamen.csproj",
+  "projectFilePath": "C:\\Users\\master\\Source\\Repos\\examen\\dAstudilloExamen\\dAstudilloExamen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\master\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\master\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

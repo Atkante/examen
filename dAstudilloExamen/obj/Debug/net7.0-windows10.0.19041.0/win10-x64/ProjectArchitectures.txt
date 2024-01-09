@@ -1,1 +1,1 @@
-C:\Users\master\source\repos\dAstudilloExamen\dAstudilloExamen\dAstudilloExamen.csproj;x64
+C:\Users\master\Source\Repos\examen\dAstudilloExamen\dAstudilloExamen.csproj;x64
